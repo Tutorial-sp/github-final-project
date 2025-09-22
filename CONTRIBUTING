@@ -1,0 +1,20 @@
+# Contributing Guidelines
+
+Thank you for your interest in contributing! All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+## How to contribute
+1. Fork the repository.
+2. Create a branch for your change: git checkout -b feature/your-feature.
+3. Make your changes and commit them.
+4. Push to your fork: git push origin feature/your-feature.
+5. Open a Pull Request (PR) describing what you changed and why.
+
+## Reporting bugs
+- Open an Issue with a clear title and steps to reproduce.
+
+## Coding style
+- Keep code readable and add comments where needed.
+- Use descriptive commit messages.
+
+## License
+By contributing you agree that your contributions will be licensed under the project’s Apache 2.0 license.
